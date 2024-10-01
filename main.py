@@ -15,7 +15,8 @@ def main(page: ft.Page):
             [
                 ft.Text("Hello World!"),
                 ft.IconButton("rocket", "red", on_click=btn_onclick),
-            ]
+            ],
+            alignment=ft.MainAxisAlignment.CENTER
         )
     )
 
