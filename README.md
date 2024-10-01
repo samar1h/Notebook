@@ -1,9 +1,3 @@
-# A notebook Flet app
+# Notebook
 
-An example of a minimal Flet app.
-
-To run the app:
-
-```
-flet run [app_directory]
-```
+ > An entirely free, all-in-one note-taking, reminder, and planner app and designed for simplicity and ease of use.
